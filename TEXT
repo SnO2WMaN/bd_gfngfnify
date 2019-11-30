@@ -1,0 +1,1 @@
+=IF( [LIST1_1]>20, [LIST2], うーん[LIST5])=IF( [LIST1_2]>90,[LIST3], )=IF( [LIST1_3]>80,[LIST4], )
